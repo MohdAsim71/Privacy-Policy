@@ -1,17 +1,18 @@
 Privacy Policy
-
 Last updated: December 21, 2025
 
 MathQuiz (“we”, “our”, or “us”) operates the MathQuiz mobile application (the “App”).
 
-This Privacy Policy explains how information is collected, used, and protected when you use our App.
+This Privacy Policy explains how information is collected, used, and protected when you use our App. By using MathQuiz, you agree to the collection and use of information in accordance with this Privacy Policy.
 
-By using MathQuiz, you agree to the collection and use of information in accordance with this Privacy Policy.
+1. Information We Collect
+1.1 Personal Information
 
-Information We Collect
-1. Usage Information
+MathQuiz does not require login and does not collect personal information such as name, email, or phone number.
 
-We may collect non-personal information automatically, such as:
+1.2 Usage Data
+
+The app may collect non-personal information automatically such as:
 
 App usage statistics
 
@@ -19,53 +20,51 @@ Device type and operating system
 
 Crash reports and performance data
 
-This information is used only to improve app performance and user experience.
+This information is only used to improve app functionality and performance.
 
-2. Personal Information
+2. Third-Party Services
 
-MathQuiz does not require users to create an account and does not directly collect personal information such as name, phone number, or address.
+If your app uses any third-party services, include this section (or remove if no services used):
 
-Third-Party Services
+MathQuiz uses third-party services that may collect information used to identify you. These services include:
+• Google AdMob (for showing ads)
+• Google Firebase Analytics
+• Firebase Crashlytics
 
-MathQuiz uses third-party services that may collect information used to identify you. These services operate under their own privacy policies.
 
-We may use:
+These services operate under their own privacy policies.
 
-Google AdMob (to show ads)
+3. How We Use Information
 
-Google Firebase Analytics (to understand app usage)
+To improve app functionality and user experience
 
-Firebase Crashlytics (to identify and fix crashes)
+To monitor and fix technical issues
 
-These services may collect information such as device identifiers and usage data.
+To show relevant advertisements (if ads are used)
 
-How We Use Information
+We do not sell or share personal data with third parties for marketing purposes.
 
-The collected information is used to:
-
-Improve app functionality and performance
-
-Monitor and fix technical issues
-
-Show relevant advertisements
-
-We do not sell or share your personal data with third parties for marketing purposes.
-
-Data Security
-
-We value your trust and strive to use commercially acceptable means to protect information. However, no method of transmission over the internet or electronic storage is 100% secure.
-
-Children’s Information
+4. Children’s Information
 
 MathQuiz is intended for a general audience.
-We do not knowingly collect personal information from children. If you believe that a child has provided personal data, please contact us and we will take appropriate action.
 
-Changes to This Privacy Policy
+We do not knowingly collect personal information from children.
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated “Last updated” date.
+If you believe a child has provided personal data, please contact us and we will take immediate action.
 
-Contact Us
+5. Data Security
 
-If you have any questions about this Privacy Policy, you can contact us at:
+We use commercially reasonable means to protect information.
 
+However, no method of transmission over the internet or electronic storage is 100% secure.
+
+6. Changes to This Privacy Policy
+
+Updates will be posted on this page with a new “Last updated” date.
+
+Users are advised to review the Privacy Policy periodically.
+
+7. Contact Us
+
+If you have questions about this Privacy Policy, contact us at:
 📧 codinglance@gmail.com
